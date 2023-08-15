@@ -9,4 +9,6 @@ The ideal smart shoulder pulley system (bicycle type) should have the following 
 - Adjustable range and resistance
 - Digital timer or counter
 - Sensors for vital signs and ECG
-The user should be able to view the range, resistance, timer and counter. The real-time visual feedback helps to motivate and educate the client. A stretch goal to consider: the clients' workouts can be tracked in an app for AWWA to monitor progress and collect data to plan future sessions.
+The user should be able to view the range, resistance, timer and counter. The real-time visual feedback helps to motivate and educate the client.
+
+A stretch goal to consider: the clients' workouts can be tracked in an app for AWWA to monitor progress and collect data to plan future sessions.
